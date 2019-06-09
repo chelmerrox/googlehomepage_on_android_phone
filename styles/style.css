@@ -13,3 +13,7 @@ body {
     display: inline;
 }
 
+/*Moving the top left links to the left*/
+.topleftlinks {
+    float: left;
+}

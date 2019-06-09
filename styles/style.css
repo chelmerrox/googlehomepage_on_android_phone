@@ -5,3 +5,11 @@ body {
     padding: 0;
     position: absolute;
 }
+
+/*Setting links on top of page display inline*/
+.topofpagelinks {
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+

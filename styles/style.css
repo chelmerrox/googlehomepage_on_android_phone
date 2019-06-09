@@ -33,3 +33,10 @@ a.allandimages {
     text-decoration: none;
     margin: 0 3px;
 }
+
+/*Making the ALL and IMAGES links to have a blue border and blue text upon clicking on them*/
+.allandimages:active, .allandimages:focus {
+    color: rgb(53, 168, 221);
+    border-bottom: 3px solid rgb(53, 168, 221);
+    padding: 5px;
+}

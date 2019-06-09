@@ -1,0 +1,7 @@
+/*Setting the whole body to a white background and absolute position*/
+body {
+    background: white;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}

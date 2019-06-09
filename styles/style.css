@@ -23,10 +23,11 @@ body {
     color: grey;
 }
 
-/**/
+/*Styles for the ALL and IMAGES links*/
 a.allandimages {
-    font: 13px arial, sans-serif;
+    font:15px arial, sans-serif;
     color: grey;
     word-spacing: 3px;
     text-decoration: none;
+    margin: 0 3px;
 }

@@ -8,7 +8,6 @@ body {
 
 /*Setting links on top of page display inline*/
 .topofpagelinks {
-    margin-left: 6px;
     padding: 0;
     display: inline;
 }
@@ -21,6 +20,9 @@ body {
 /*Setting the menu bar to grey color*/
 #sidemenubar {
     color: grey;
+    margin-left: 5px; 
+    margin-top: 2px; 
+
 }
 
 /*Styles for the ALL and IMAGES links*/

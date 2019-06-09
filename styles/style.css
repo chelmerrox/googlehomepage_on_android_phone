@@ -17,3 +17,8 @@ body {
 .topleftlinks {
     float: left;
 }
+
+/*Setting the menu bar to grey color*/
+#sidemenubar {
+    color: grey;
+}

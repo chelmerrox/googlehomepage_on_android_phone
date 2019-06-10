@@ -27,7 +27,7 @@ body {
 
 /*Styles for the ALL and IMAGES links*/
 a.allandimages {
-    font:15px arial, sans-serif;
+    font:15px  sans-serif, arial bolder;
     color: grey;
     word-spacing: 3px;
     text-decoration: none;

@@ -53,4 +53,10 @@ a.allandimages {
     padding: 0;
 }
 
+/*Styles for the google apps icon*/
+i#googleapps {
+    color: grey;
+    margin-right: 8px; 
+}
+
 

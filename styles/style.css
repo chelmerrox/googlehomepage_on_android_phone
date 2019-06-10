@@ -41,6 +41,8 @@ a.allandimages {
     padding: 5px;
 }
 
+
+
 /*Moving the top right links to the right of the web page*/
 .toprightlinks {
     float: right;
@@ -86,8 +88,10 @@ i#gmailaccount {
 /*Removing the blue border around search bar when it is clicked on*/
 input[type="text"] {
     outline: none;
-   
+    
 }
+
+
 
 
 
@@ -99,8 +103,8 @@ input[type="text"] {
 p#location {
     color: grey;
     font: 15px sans-serif, arial;
-    background-color: rgb(233, 227, 227);
-    border-bottom: 1px solid;
+    background-color: rgb(236, 231, 231);
+    border-bottom: 1px solid rgb(202, 195, 195);
     padding: 15px 15px;
     margin: 50px 0 0 0;
     

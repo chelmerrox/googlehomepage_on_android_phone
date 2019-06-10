@@ -101,3 +101,14 @@ p#location {
     
 }
 
+/*Styles for the links on the bottom of the page*/
+.bottomlinks {
+    color: grey;
+    font: 15px sans-serif, arial;
+    background-color: rgb(233, 227, 227);
+    padding: 15px 15px 13px 15px;
+    margin: 0;
+    text-align: center;
+    line-height: 35px;
+}
+

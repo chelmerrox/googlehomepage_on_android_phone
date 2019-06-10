@@ -40,3 +40,11 @@ a.allandimages {
     border-bottom: 3px solid rgb(53, 168, 221);
     padding: 5px;
 }
+
+/*Moving the top right links to the right of the web page*/
+.toprightlinks {
+    float: right;
+    margin-top: 2px;
+}
+
+

@@ -47,4 +47,10 @@ a.allandimages {
     margin-top: 2px;
 }
 
+/*Styles for google assistant icon/image*/
+#googleassistant {
+    margin-right: 10px;
+    padding: 0;
+}
+
 

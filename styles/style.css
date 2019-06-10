@@ -72,4 +72,15 @@ i#gmailaccount {
     margin: 100px 460px 0 460px;
 }
 
+/*Styles for  search bar*/
+#searchbar {
+    padding: 10px 10px 0 10px;
+    margin: 10px 200px 80px 404px; /*moving search bar to the center and closer to Google logo*/
+    border-radius: 25px; /*making the rounded corners for the search bar*/
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(224, 223, 223);
+    line-height: 45px; /*Increasing the height of the border/the space inside the border where user inputs text search */
+}
+
 

@@ -27,7 +27,7 @@ body {
 
 /*Styles for the ALL and IMAGES links*/
 a.allandimages {
-    font:15px  sans-serif, arial bolder;
+    font:15px   sans-serif, arial bolder;
     color: grey;
     word-spacing: 3px;
     text-decoration: none;
@@ -83,6 +83,11 @@ i#gmailaccount {
     line-height: 45px; /*Increasing the height of the border/the space inside the border where user inputs text search */
 }
 
+/*Removing the blue border around search bar when it is clicked on*/
+input[type="text"] {
+    outline: none;
+   
+}
 
 
 

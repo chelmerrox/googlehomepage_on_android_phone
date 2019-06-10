@@ -31,7 +31,7 @@ a.allandimages {
     color: grey;
     word-spacing: 3px;
     text-decoration: none;
-    margin: 0 3px;
+    margin: 0 8px;
 }
 
 /*Making the ALL and IMAGES links to have a blue border and blue text upon clicking on them*/
@@ -59,10 +59,17 @@ i#googleapps {
     margin-right: 8px; 
 }
 
-/**/
+/*Increasing the padding top of the gmail account profile picture*/
 i#gmailaccount {
     padding-top: 1px;
-    
+}
+
+/*Styling for google logo*/
+#googlelogo {
+    width: 350px;
+    height: 220px;
+    padding: 10px 10px 0 10px;
+    margin: 100px 460px 0 460px;
 }
 
 

@@ -112,3 +112,15 @@ p#location {
     line-height: 35px;
 }
 
+/*Word-spacing for Settings and Advertising links*/
+#upperlink1, #bottomlink1 {
+    word-spacing: 15px;
+}
+
+/*Spacing out the Privacy text from Terms and the same for Business text from About*/
+#upperlink2 , #bottomlink2 {
+    padding-right: 14px;
+}
+
+
+

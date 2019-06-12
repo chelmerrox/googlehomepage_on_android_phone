@@ -6,7 +6,7 @@ This is my own project and my attempt at replicating the Google homepage as view
 The purpose of this project is to sharpen my skills on using my current knowledge on HTML5 and CSS3 to build the front-end of the web page. However, there is no JavaScript code used for this project.
 
 ## Screenshot of the web page
-[The Google homepage on a web browser installed on an android mobile device.](images/googlehomepageonanandroidphone.png)
+![The Google homepage on a web browser installed on an android mobile device.](images/googlehomepageonanandroidphone.png)
 
 ## Author
 Losalini Rokocakau.

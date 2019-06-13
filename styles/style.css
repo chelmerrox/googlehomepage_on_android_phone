@@ -76,7 +76,7 @@ i#gmailaccount {
 
 /*Styles for  search bar*/
 #searchbar {
-    padding: 10px 10px 0 10px;
+    padding-left: 19px; /*Moving blinking cursor within input text-field to the right*/
     margin: 10px 200px 80px 404px; /*moving search bar to the center and closer to Google logo*/
     border-radius: 25px; /*making the rounded corners for the search bar*/
     border-width: 1px;
